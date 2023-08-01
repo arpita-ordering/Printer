@@ -1,0 +1,16 @@
+{
+  "app_id": "react-native-app",
+  "notification_app": "businessapp",
+  "app_name": "Ordering",
+  "project": "reactdemo",
+  "api": {
+    "url": "https://apiv4.ordering.co",
+    "language": "en",
+    "version": "v400"
+  },
+  "socket": {
+    "url": "https://socket-v2.ordering.co"
+  },
+  "use_root_point": true,
+  "show_tutorials": true
+}

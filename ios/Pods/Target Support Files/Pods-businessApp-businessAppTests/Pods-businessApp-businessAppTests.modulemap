@@ -1,0 +1,6 @@
+module Pods_businessApp_businessAppTests {
+  umbrella header "Pods-businessApp-businessAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

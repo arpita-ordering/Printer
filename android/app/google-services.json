@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "993953354933",
+    "project_id": "rn-business",
+    "storage_bucket": "rn-business.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993953354933:android:29669bd2b8844e48151afc",
+        "android_client_info": {
+          "package_name": "com.businessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993953354933-8r285nujjroh0iuel95m412delj9qbhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5eU7stks4gJaSXbtOouVNh_KlmpQKXHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993953354933-8r285nujjroh0iuel95m412delj9qbhk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "993953354933-afad7lmpkgalno1uhojegf08pmtuiqif.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ordering.app1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

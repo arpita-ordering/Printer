@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/businessApp.iml" filepath="$PROJECT_DIR$/.idea/modules/businessApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/businessApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/businessApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/715013092/businessApp.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/715013092/businessApp.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1819917739/businessApp.react-native-background-timer.iml" filepath="$PROJECT_DIR$/.idea/modules/-1819917739/businessApp.react-native-background-timer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/930022460/businessApp.react-native-clipboard_clipboard.iml" filepath="$PROJECT_DIR$/.idea/modules/930022460/businessApp.react-native-clipboard_clipboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1229127868/businessApp.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-1229127868/businessApp.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1197186998/businessApp.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/1197186998/businessApp.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1807559695/businessApp.react-native-document-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1807559695/businessApp.react-native-document-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2125725785/businessApp.react-native-fast-image.iml" filepath="$PROJECT_DIR$/.idea/modules/2125725785/businessApp.react-native-fast-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1665493030/businessApp.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1665493030/businessApp.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-518924334/businessApp.react-native-firebase_crashlytics.iml" filepath="$PROJECT_DIR$/.idea/modules/-518924334/businessApp.react-native-firebase_crashlytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/816310751/businessApp.react-native-geolocation-service.iml" filepath="$PROJECT_DIR$/.idea/modules/816310751/businessApp.react-native-geolocation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-711839945/businessApp.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-711839945/businessApp.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-738713613/businessApp.react-native-html-to-pdf.iml" filepath="$PROJECT_DIR$/.idea/modules/-738713613/businessApp.react-native-html-to-pdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-67473617/businessApp.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-67473617/businessApp.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-91888823/businessApp.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-91888823/businessApp.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-203999364/businessApp.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/-203999364/businessApp.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/45269439/businessApp.react-native-onesignal.iml" filepath="$PROJECT_DIR$/.idea/modules/45269439/businessApp.react-native-onesignal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1683191669/businessApp.react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/1683191669/businessApp.react-native-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1609279054/businessApp.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1609279054/businessApp.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1199686306/businessApp.react-native-print.iml" filepath="$PROJECT_DIR$/.idea/modules/-1199686306/businessApp.react-native-print.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-559839099/businessApp.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-559839099/businessApp.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-110307712/businessApp.react-native-restart.iml" filepath="$PROJECT_DIR$/.idea/modules/-110307712/businessApp.react-native-restart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-527018528/businessApp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-527018528/businessApp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/466193912/businessApp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/466193912/businessApp.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/593744320/businessApp.react-native-sound.iml" filepath="$PROJECT_DIR$/.idea/modules/593744320/businessApp.react-native-sound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/148357955/businessApp.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/148357955/businessApp.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1966946193/businessApp.react-native-star-io10.iml" filepath="$PROJECT_DIR$/.idea/modules/1966946193/businessApp.react-native-star-io10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1557793791/businessApp.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1557793791/businessApp.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-274863510/businessApp.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-274863510/businessApp.react-native-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1649070034/businessApp.sentry_react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/-1649070034/businessApp.sentry_react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1774367755/businessApp.tp-react-native-bluetooth-printer.iml" filepath="$PROJECT_DIR$/.idea/modules/1774367755/businessApp.tp-react-native-bluetooth-printer.iml" />
+    </modules>
+  </component>
+</project>

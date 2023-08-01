@@ -1,0 +1,14 @@
+com/businessapp/ReactNativeFlipper.java
+ com.businessapp.ReactNativeFlipper
+ com.businessapp.ReactNativeFlipper$1
+ com.businessapp.ReactNativeFlipper$2
+ com.businessapp.ReactNativeFlipper$2$1
+com/businessapp/MainActivity.java
+ com.businessapp.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/businessapp/BuildConfig.java
+ com.businessapp.BuildConfig
+com/businessapp/MainApplication.java
+ com.businessapp.MainApplication
+ com.businessapp.MainApplication$1

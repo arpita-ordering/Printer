@@ -1,0 +1,15 @@
+rootProject.name = 'businessApp'
+include ':tp-react-native-bluetooth-printer'
+project(':tp-react-native-bluetooth-printer').projectDir = new File(rootProject.projectDir, '../node_modules/tp-react-native-bluetooth-printer/android')
+include ':react-native-device-info'
+project(':react-native-device-info').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-device-info/android')
+include ':react-native-background-timer'
+project(':react-native-background-timer').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-background-timer/android')
+include ':react-native-maps'
+project(':react-native-maps').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-maps/lib/android')
+include ':react-native-print'
+project(':react-native-print').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-print/android')
+include ':react-native-onesignal'
+project(':react-native-onesignal').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-onesignal/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
